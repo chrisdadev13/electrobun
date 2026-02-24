@@ -1,0 +1,23 @@
+kitchen/src/tests/interactive/window-events.test.ts
+  2d12bc5bf4aa360c 106-110,112-140,143-170
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.4",
+  "base_commit_sha": "217fd234b618c9d53b810375b88e1c448f7fbe3f",
+  "prompts": {
+    "2d12bc5bf4aa360c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c427cc54-15b0-4755-8187-b14b4b4452b0",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Chris <92900301+chrisdadev13@users.noreply.github.com>",
+      "messages": [],
+      "total_additions": 67,
+      "total_deletions": 3,
+      "accepted_lines": 62,
+      "overriden_lines": 1
+    }
+  }
+}
