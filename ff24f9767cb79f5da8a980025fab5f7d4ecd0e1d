@@ -1,0 +1,55 @@
+package/src/native/macos/nativeWrapper.mm
+  0aee503fe7c77e03 7263-7282
+templates/bunny/src/bun/index.ts
+  2d12bc5bf4aa360c 63
+kitchen/src/tests/window.test.ts
+  cb705579b7c11261 206,208,210-212,214-218,221,226,229,231,233-234
+package/src/bun/proc/native.ts
+  cb705579b7c11261 158,160-163,165
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.4",
+  "base_commit_sha": "ff24f9767cb79f5da8a980025fab5f7d4ecd0e1d",
+  "prompts": {
+    "0aee503fe7c77e03": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e155ea6b-4a45-45fa-be9f-ae7d971ab848",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Chris <92900301+chrisdadev13@users.noreply.github.com>",
+      "messages": [],
+      "total_additions": 20,
+      "total_deletions": 0,
+      "accepted_lines": 20,
+      "overriden_lines": 0
+    },
+    "2d12bc5bf4aa360c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c427cc54-15b0-4755-8187-b14b4b4452b0",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Chris <92900301+chrisdadev13@users.noreply.github.com>",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 2,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    },
+    "cb705579b7c11261": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7f621e94-4e4e-4a37-bdf1-4dc6e3798a1b",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Chris <92900301+chrisdadev13@users.noreply.github.com>",
+      "messages": [],
+      "total_additions": 321,
+      "total_deletions": 1,
+      "accepted_lines": 136,
+      "overriden_lines": 16
+    }
+  }
+}
