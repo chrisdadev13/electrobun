@@ -1,0 +1,25 @@
+package/src/native/win/nativeWrapper.cpp
+  be1d3d18eff9b741 7490-7498
+package/src/native/linux/nativeWrapper.cpp
+  be1d3d18eff9b741 8052-8060
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.5",
+  "base_commit_sha": "4d0609fc9c779148ea1930b5fbb1072bd52fd867",
+  "prompts": {
+    "be1d3d18eff9b741": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e4bfa479-2b01-4f51-b136-b290274e4759",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Chris <92900301+chrisdadev13@users.noreply.github.com>",
+      "messages": [],
+      "total_additions": 18,
+      "total_deletions": 0,
+      "accepted_lines": 18,
+      "overriden_lines": 0
+    }
+  }
+}
