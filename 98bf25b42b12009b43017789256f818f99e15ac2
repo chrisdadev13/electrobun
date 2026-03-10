@@ -1,0 +1,21 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.9",
+  "base_commit_sha": "98bf25b42b12009b43017789256f818f99e15ac2",
+  "prompts": {
+    "be1ecaed2f9f9da9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a3eed5f4-c3b4-4f9b-8f3a-415e871298e7",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Chris <92900301+chrisdadev13@users.noreply.github.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
