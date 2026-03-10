@@ -1,0 +1,23 @@
+package/src/native/macos/nativeWrapper.mm
+  41cb3941c584d1a9 7272,7279,7285
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.9",
+  "base_commit_sha": "8cfad416ed47f0202b225ea1b590e59236627e82",
+  "prompts": {
+    "41cb3941c584d1a9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ee3e86b2-cd57-458d-8fea-b8778aabe30d",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Chris <92900301+chrisdadev13@users.noreply.github.com>",
+      "messages": [],
+      "total_additions": 188,
+      "total_deletions": 26,
+      "accepted_lines": 24,
+      "overriden_lines": 12
+    }
+  }
+}
